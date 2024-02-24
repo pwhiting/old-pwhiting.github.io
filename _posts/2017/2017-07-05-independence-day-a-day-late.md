@@ -1,7 +1,7 @@
 ---
 id: 621
 layout: post
-title: \"Independence\" day
+title: "Independence" day
 date: 2017-07-05 16:01:54
 modified: 2017-07-05 16:01:54
 categories: ['Amsterdam to Paris and back']
