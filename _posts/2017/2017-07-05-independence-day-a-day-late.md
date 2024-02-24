@@ -35,5 +35,6 @@ I don't think I was getting the silent treatment after the third climb - I just 
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_115228400_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_094054896.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_150423982.jpg)
-[![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_210956168_hdr.jpg)](https://whitingpt.files.wordpress.com/2017/07/img_20170705_210956168_hdr.jpg)
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_210956168_hdr.jpg)
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_210956168_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_211359435.jpg)
