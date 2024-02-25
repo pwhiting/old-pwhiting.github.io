@@ -3,7 +3,8 @@ layout: default
 ---
 <h1>Posts in category: {{ page.title }}</h1>
 <ul>
- {% for post in site.categories[page.category] | reversed %}
+ {% assign sorted_posts = site.categories[page.category] | sort: 'date' %} 
+ {% for post in sorted_posts %}
    <li>
      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
      <p>{{ post.date | date_to_string }}</p>
