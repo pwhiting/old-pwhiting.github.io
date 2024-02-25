@@ -1,8 +1,8 @@
 ---
 layout: category_page
-title: Ride around Iceland 
+title: Iceland 
 category: iceland 
-permalink: /categories/Iceland/
+permalink: /categories/iceland/
 ---
 
 We circumvented Iceland. It was amazing.
