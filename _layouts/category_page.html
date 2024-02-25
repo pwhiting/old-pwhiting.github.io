@@ -6,6 +6,7 @@ layout: default
  {% for post in site.categories[page.category] | reversed %}
    <li>
      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+     <p>{{ post.date | date_to_string }}</p>
    </li>
  {% endfor %}
 </ul>
