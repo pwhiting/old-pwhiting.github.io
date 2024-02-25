@@ -1,8 +1,8 @@
 ---
 layout: category_page
 title: Iceland 
-category: iceland 
-permalink: /categories/iceland/
+category: Iceland 
+permalink: /categories/Iceland/
 ---
 
 We circumvented Iceland. It was amazing.
