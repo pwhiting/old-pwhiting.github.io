@@ -4,10 +4,10 @@ layout: default
 <h1>Posts in category: {{ page.title }}</h1>
 <ul>
  {% assign sorted_posts = site.categories[page.category] | sort: 'date' %} 
- {% for post in sorted_posts reversed %}
+ {% for post in site.categories reversed %}
    <li>
      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-     <p>{{ post.date | date_to_string }}</p>
+     {{ post.date | date_to_string }}
    </li>
  {% endfor %}
 </ul>
