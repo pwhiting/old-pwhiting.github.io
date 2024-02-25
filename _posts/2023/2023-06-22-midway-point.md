@@ -58,7 +58,7 @@ We are in a town called Besançon, and there is an amazing 17th-century citadel 
 
 
 
-Here's more info and a cool photo:  <https://en.m.wikipedia.org/wiki/Citadel_of_Besan%C3%A7on> 
+Here's more info and a cool photo: [![](https://en.m.wikipedia.org/wiki/Citadel_of_Besançon#/media/File%3ACitadelle_Besançon.jpg)](https://en.m.wikipedia.org/wiki/Citadel_of_Besan%C3%A7on)
 
 
 

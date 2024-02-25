@@ -32,6 +32,15 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+  category: category_page
+  permalinks:
+  category: /categories/:name/
 
 titles_from_headings:
   strip_title: true
