@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Blog Archive
 ---
 {% for tag in site.tags %}
   <ul style="list-style-type:none;padding:0;margin:0;">
