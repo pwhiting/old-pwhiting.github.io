@@ -12,4 +12,5 @@ Today I found an easy way to have my computer combine a bunch of photos and vide
 
 [![youtube thumbnail](https://i.ytimg.com/vi/JC7zLbsodNE/hqdefault.jpg)](https://www.youtube.com/watch?v=JC7zLbsodNE)
 
+[![image](https://lh3.googleusercontent.com/pw/AP1GczMY3pc5EdicKxcH31E8V9VMqdIjwNa89MTrJaa-JrvXUZJ5apq3o8-XnCgAAOokb4E2l1Y13Htc2M4gEilKofOwZor-w45HymnHkEOotS8TioqiaQcg=w600-h315-p-k)](https://photos.app.goo.gl/L8dEfqbLDNvKV4Af8)
 
